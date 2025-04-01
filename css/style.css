@@ -111,10 +111,10 @@ section{
 	line-height: 1.1;
 	margin: 0 0 8px;
 }
-.home-text h5{
+.home-text h4{
 	color: var(--text-color);
 	margin: 0 0 35px;
-	font-size: 10rem;
+	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1.1;
 }
