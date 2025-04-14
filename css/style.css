@@ -360,19 +360,19 @@ header.sticky{
 }
 .gallery-content {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 	gap: 20px;
 	margin-top: 40px;
 }
 .gallery-item img {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	border-radius: 10px;
 	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-	transition: transform 0.3s ease;
+	transition: transform 1.0s ease;
 }
 .gallery-item img:hover {
-	transform: scale(2.05);
+	transform: scale(1.05);
 }
 
 .contact{
