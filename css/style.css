@@ -354,10 +354,10 @@ header.sticky{
 .row:hover .layer{
 	height: 100%;
 }
-/* 
+
 .gallery {
 	background: var(--second-bg-color);
-} */
+}
 .gallery-content {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -372,7 +372,7 @@ header.sticky{
 	transition: transform 0.3s ease;
 }
 .gallery-item img:hover {
-	transform: scale(1.05);
+	transform: scale(2.05);
 }
 
 .contact{
