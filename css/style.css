@@ -354,10 +354,10 @@ header.sticky{
 .row:hover .layer{
 	height: 100%;
 }
-
+/* 
 .gallery {
 	background: var(--second-bg-color);
-}
+} */
 .gallery-content {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
