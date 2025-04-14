@@ -357,7 +357,7 @@ header.sticky{
 
 .gallery {
 	padding: 80px 10%;
-	background: #f8f8f8;
+	background: var(--second-bg-color);
 	text-align: center;
 }
 .gallery-content {
